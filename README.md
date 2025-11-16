@@ -1,5 +1,5 @@
-# Olá, eu sou a Vitória! 💚
-Sou apaixonada por dados e tecnologia, sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou atuando com **Engenharia de Analytics**.
+# Hi, I’m Vitória! 💚
+I’m a Systems Analysis and Development student passionate about data, analytics and technology.
 
 ## ⚙️ Technologies:
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,html,css,java,gcp,aws)](https://skillicons.dev)
