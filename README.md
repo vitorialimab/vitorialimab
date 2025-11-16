@@ -1,5 +1,7 @@
 # Hi, I’m Vitória! 💚
-I’m a Systems Analysis and Development student passionate about data, analytics and technology.
+I’m a Systems Analysis and Development student passionate about analytics and technology.
+
+I consider myself curious, creative, and genuinely excited about learning in general. I love connecting the dots, solving problems, and getting better every day.
 
 ## ⚙️ Technologies:
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,html,css,java,gcp,aws)](https://skillicons.dev)
